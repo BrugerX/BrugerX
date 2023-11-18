@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @BrugerX
-- 👀 I’m interested in DAT PAPER BOIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-- 🌱 I’m currently learning TO TRAP
-- 💞️ I’m looking to collaborate on GETTING GANGSTER ON THAT DCK
-- 📫 How to reach me IN THE BANDO
-
-<!---
-BrugerX/BrugerX is ✨ special ✨
---->
+- 👋 Hail and well met, I am known as @BrugerX.
+- 👀 Mine eyes doth gaze with eager yearning upon the pursuit of that most noble parchment, the currency of our realm.
+- 🌱 At present, I devote myself to the learned art of the trap, a venture most cunning and shrewd.
+- 💞️ My heart seeks a fellowship in the craft of gaining repute and prowess in our streets' challenging discourse.
+- 📫 Shouldst thou seek audience with me, find me in the bando's embrace.
